@@ -10,15 +10,17 @@ i {
 
 
 @media screen and (min-width: 1000px) {
-  .cabecalho {
-    display: grid;
-    grid-template-columns: 100px repeat(2, auto) 40px;
-    gap: 10px;
-    align-items: center;
-    background-color: #15191c;
-    padding: 8px 16px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
-  }
+    .cabecalho {
+        display: grid;
+        grid-template-columns: 100px repeat(2, auto) 40px;
+        gap: 10px;
+        align-items: center;
+        background-color: #15191c;
+        padding: 8px 16px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
   
   .cabecalho__menu {
     background-color: #15191c;
