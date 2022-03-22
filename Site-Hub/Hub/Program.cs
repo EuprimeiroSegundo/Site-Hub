@@ -33,6 +33,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=CadastroUsuarios}/{action=Create}/{id?}");
+    pattern: "{controller=Site}/{action=home}/{id?}");
 
 app.Run();

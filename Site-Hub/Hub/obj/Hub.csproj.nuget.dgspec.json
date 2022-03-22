@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\Hub.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\Hub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\Hub.csproj": {
+    "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\Hub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\Hub.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\Hub.csproj",
         "projectName": "Hub",
-        "projectPath": "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\Hub.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\Hub.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

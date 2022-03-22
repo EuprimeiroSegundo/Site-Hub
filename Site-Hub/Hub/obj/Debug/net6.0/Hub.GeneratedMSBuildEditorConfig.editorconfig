@@ -8,57 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hub
 build_property.RootNamespace = Hub
-build_property.ProjectDir = C:\Users\Alunos\source\repos\Hubv4\teste\Hub\
+build_property.ProjectDir = C:\Users\Alunos\Documents\Hub\Site-Hub\Site-Hub\Hub\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Alunos\source\repos\Hubv4\teste\Hub
+build_property.MSBuildProjectDirectory = C:\Users\Alunos\Documents\Hub\Site-Hub\Site-Hub\Hub
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/CadastroUsuarios/Create.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/CadastroUsuarios/Delete.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/CadastroUsuarios/Details.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/CadastroUsuarios/Edit.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/CadastroUsuarios/Index.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/Home/Index.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/Home/Privacy.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/Shared/Error.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/_ViewImports.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/SIte/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0l0ZVxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/_ViewStart.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/source/repos/Hubv4/teste/Hub/Views/Shared/_Layout.cshtml]
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9aafh6qlca

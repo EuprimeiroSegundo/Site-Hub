@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NFg8s9LQi68H9IoOgo4jgaHUihohDTIweWlNx8ulKpW9tvawZ1fVEpHVFxc9xIi1GHsekTq92nJtk4kdihPF3w==",
+  "dgSpecHash": "sgxKnIy/d34wQvv9EzDtgnEuJPZeUMhMFOd/BLNiDS9RgJBujMcOptJFL6IeaGYGnnm+REY/mnUF28XvteTAAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\source\\repos\\Hubv4\\teste\\Hub\\Hub.csproj",
+  "projectFilePath": "C:\\Users\\Alunos\\Documents\\Hub\\Site-Hub\\Site-Hub\\Hub\\Hub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
