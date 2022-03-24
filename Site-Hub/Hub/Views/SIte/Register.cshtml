@@ -1,0 +1,62 @@
+﻿@model CadastroUsuario
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<header class="cabecalho">
+        <p class="cabecalho__logo"><i class="fa-solid fa-frog icone-logo"></i></p>
+    </header>
+
+    <form asp-controller="Site" asp-action="Register" method="post">
+
+      <div class="form">
+        <div class="form-cabecalho">
+          Cadastro
+        </div>
+        <br>
+        <div class="inputs">
+        <div class="input-box">
+          <p class="input-title">Nome completo</p>
+          <input type="text" asp-for="Nome" aps-for="Nome" class="input-register" placeholder="Ex: Rafael Nogueira">
+          <br>
+          <br>
+        </div>
+        <div class="input-box">
+          <p class="input-title">Data de nascimento</p>
+          <input type="date" asp-for="DataNascimento" class="input-register">
+          <br>
+          <br>
+        </div>
+        <div class="input-box">
+          <p class="input-title">Email</p>
+          <input type="text" asp-for="Email" class="input-register" placeholder="Ex: registra.vagas@gmail.com">
+          <br>
+          <br>
+        </div>
+        <div class="input-box">
+          <p class="input-title">Senha</p>
+          <input type="text" asp-for="senha" class="input-register" placeholder="Ex: vagas123654">
+          <br>
+          <br>
+        </div>
+        <div class="input-box">
+          <p class="input-title">Senha</p>
+          <input type="text" asp-for="Cargo" class="input-register" placeholder="Ex: pleno em css">
+          <br>
+          <br>
+        </div>
+        <div class="input-box">
+          <p class="input-title">Pronome</p>
+          <input type="text" asp-for="Pronome" class="input-register" placeholder="Ex: ele, ela, etc">
+          <br>
+          <br>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-block" >Adicionar</button>
+      </div>
+        
+      </div>
+
+      
+    </form>

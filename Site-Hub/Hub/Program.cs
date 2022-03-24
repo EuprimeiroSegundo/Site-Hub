@@ -1,4 +1,6 @@
 using Hub;
+using Hub.Repositorio;
+using Hub.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -13,6 +15,8 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 
 });
+
+builder.Services.AddScoped<ICadastroRepositorio, CadastroRepositorio>();
 
 var app = builder.Build();
 
@@ -33,6 +37,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Site}/{action=home}/{id?}");
+    pattern: "{controller=Site}/{action=Register}/{id?}");
 
 app.Run();

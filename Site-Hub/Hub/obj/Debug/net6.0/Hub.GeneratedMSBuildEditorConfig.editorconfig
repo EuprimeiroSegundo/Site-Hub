@@ -15,26 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alunos\Documents\Hub\Site-Hub\Site-Hub\Hub
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/CadastroUsuarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9Vc3Vhcmlvc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/SIte/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0l0ZVxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/SIte/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0l0ZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alunos/Documents/Hub/Site-Hub/Site-Hub/Hub/Views/_ViewImports.cshtml]

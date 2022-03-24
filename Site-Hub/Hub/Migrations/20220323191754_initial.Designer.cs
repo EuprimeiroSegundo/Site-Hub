@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hub.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20220321173915_initial")]
+    [Migration("20220323191754_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
